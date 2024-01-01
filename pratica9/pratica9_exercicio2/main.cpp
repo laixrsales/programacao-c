@@ -1,7 +1,7 @@
 /* INF112 - PROGRAMAÇÃO II
    Prática 9 - Tratamento de Exceções e Arquivos
    Exercício 2 - Vetor
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    14 de novembro de 2023
 */
 

@@ -1,7 +1,7 @@
 /* INF 112 - PROGRAMAÇÃO II
    Prática 6 - Herança e Composição
    Exercício 1 - Conta bancária
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    17 de outubro de 2023
 */
 

@@ -1,7 +1,7 @@
 /* INF112 - PROGRAMAÇÃO II
    Prática 8 - Polimorfismo
    Exercício 1
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    07 de novembro de 2023
 */
 

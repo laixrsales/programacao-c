@@ -1,7 +1,7 @@
 /* INF112 - Programação II
    Prática 4 - Tipo Abstrato de Dados (TADs) / Modularização
    Exercício 1 - Lista
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    12 de setembro de 2023
 */
 #include <iostream>

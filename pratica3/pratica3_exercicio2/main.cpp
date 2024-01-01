@@ -1,7 +1,7 @@
 /* INF 112 - Programação II
    Prática 3 - Tipos Abstratos de Dados (TADs)
    Exercício 2 - Datas
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    07/09/2023
 */
 

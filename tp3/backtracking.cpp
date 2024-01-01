@@ -1,7 +1,7 @@
 /* INF112 - PROGRAMAÇÃO II
    Trabalho Prático 3 - Recursividade e backtracking
    Versão 2 - Backtracking
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    01 de novembro de 2023
 */
 

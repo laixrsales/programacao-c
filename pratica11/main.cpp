@@ -1,7 +1,7 @@
 /* INF112 - PROGRAMAÇÃO II
    Prática 11 - STL, Métodos de ordenação
    Exercício 1
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    28 de novembro de 2023
 */
 

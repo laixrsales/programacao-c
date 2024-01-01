@@ -1,7 +1,7 @@
 /* INF112 - PROGRAMAÇÃO II
    Prática 9 - Tratamento de Exceções e Arquivos
    Exercício 4 - Funcionários
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    17 de novembro de 2023
 */
 

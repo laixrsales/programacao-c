@@ -1,7 +1,7 @@
 /* INF112 - PROGRAMAÇÃO II
    Prática 2 - Alocação Dinâmica e Valgrind
    Exercício 2 - Imagens pbm
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
 */
 
 #include <iostream>

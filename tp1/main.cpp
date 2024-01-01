@@ -1,6 +1,6 @@
 /* INF112 - PROGRAMAÇÃO II
    Trabalho Prático I - Matrizes Quadradas
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    13 de outubro de 2023
 */
 

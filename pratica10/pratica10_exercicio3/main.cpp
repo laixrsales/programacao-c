@@ -1,7 +1,7 @@
 /* INF112 - PROGRAMAÇÃO II
    Prática 10 - Recursividade
    Exercício 3 - MDC
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    21 de novembro de 2023
 */
 

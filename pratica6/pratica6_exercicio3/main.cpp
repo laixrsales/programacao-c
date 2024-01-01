@@ -1,7 +1,7 @@
 /* INF112 - PROGRAMAÇÃO II
    Prática 6 - Herança e composição
    Exercício 3 - Custos de entrega
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    17 de outubro de 2023
 */
 

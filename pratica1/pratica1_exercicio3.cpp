@@ -1,6 +1,6 @@
 /* Prática 1 - Ponteiros
    Exercício 3
-   Laís Reis de Sales - 96862 */
+   Feito por laixrsales */
 
 #include <iostream>
 

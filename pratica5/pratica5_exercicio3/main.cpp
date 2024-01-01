@@ -1,7 +1,7 @@
 /* INF112 - PROGRAMAÇÃO II
    Prática 5 - Classes, objetos e encapsulamento
    Exercício 3 - Aquecedor II
-   Laís Reis de Sales - 96862
+   Feito por laixrsales
    03 de outubro de 2023
 */
 
